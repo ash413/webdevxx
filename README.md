@@ -1,2 +1,2 @@
 # webdevxx
-front-end web development
+front-end web development projects
